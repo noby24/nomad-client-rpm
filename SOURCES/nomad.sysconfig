@@ -1,2 +1,2 @@
-CMD_OPTS="agent -config-dir=/etc/nomad -data-dir=/var/lib/nomad"
+CMD_OPTS="agent -config=/etc/nomad -data-dir=/var/lib/nomad"
 #GOMAXPROCS=4
